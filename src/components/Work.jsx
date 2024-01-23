@@ -31,13 +31,13 @@ const Work = ({ setMenu }) => {
           <div className="col-full masonry-wrap">
             <div className="masonry">
               <WorkItem
-                imageSrc={"../../public/images/work/mehendiImg.png"}
+                imageSrc={"./images/work/mehendiImg.png"}
                 title={"Bridal Mehendi"}
                 cat={"mehendi"}
               />
               <WorkItem
                 imageSrc={
-                  "../../public/images/work/WhatsApp Image 2024-01-01 at 13.10.20_29d48c38.jpg"
+                  "./images/work/WhatsApp Image 2024-01-01 at 13.10.20_29d48c38.jpg"
                 }
                 title={"Bridal Mehendi"}
                 cat={"mehendi"}
