@@ -5,7 +5,7 @@ import TestimonialItem from "./TestimonialItem";
 const Testimonial = ({ setMenu }) => {
   let text =
     "Flawless results every time! Sadaf and the team at Radiance&Glamour are true artists. From makeup to henna, their expertise shines through. I can't recommend them enough!";
-  let pic = "/images/clients/client1.jpg";
+  let pic = "images/clients/client1.jpg";
   let name = "Sofia Saifi";
   return (
     <>
